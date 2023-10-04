@@ -1,0 +1,16 @@
+{
+    "name": "gameutils.fixedcamrender.samples",
+    "rootNamespace": "GameUtils.FixedCamRender.Samples",
+    "references": [
+        "GUID:a42ea739a669a1941a31ecc42e3fc74d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
