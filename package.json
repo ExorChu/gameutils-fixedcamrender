@@ -1,5 +1,5 @@
 {
-  "name": "com.dashbit.gameutils-cullingapi",
+  "name": "com.dashbit.gameutils-fixedcamrender",
   "displayName": "Fixed Resolution Camera Render",
   "description": "Fixed Resolution Camera Render is a solution for downscaling render texture on low-end hardwares, especially on mobiles",
   "version": "1.0.0",
